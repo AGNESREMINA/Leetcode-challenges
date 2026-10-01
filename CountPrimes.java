@@ -14,6 +14,7 @@ class Solution {
                 }
             }
         }
+        //configured challeges
 
         int count = 0;
         for (boolean prime : isPrime) {
